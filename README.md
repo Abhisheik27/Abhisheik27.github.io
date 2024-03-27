@@ -1,12 +1,12 @@
 Hey there! I'm Abhisheik, a passionate data science and Software Development enthusiast based in San Diego, California. I'm excited to share my journey and projects with you. Let's dive in!
 
 ## Education
-**University of California, San Diego** (2023-Present)
-Masters of Science(M.S) in Data Science
+**University of California, San Diego** (2023-Present)  
+Masters of Science(M.S) in Data Science  
 GPA- 3.85/4
 
-**University of Mumbai** (2019-2023)
-Bachelor of Engineering(B.E.) in Computer Science Engineering
+**University of Mumbai** (2019-2023)  
+Bachelor of Engineering(B.E.) in Computer Science Engineering  
 GPA - 3.73/4
 
 Throughout my educational journey, I had the privilege of learning from distinguished professors and engaging in a diverse array of coursework. These experiences were instrumental in shaping my expertise in data science, programming, and problem-solving. They provided me with a robust foundation that empowers me to tackle complex challenges with confidence and creativity.
