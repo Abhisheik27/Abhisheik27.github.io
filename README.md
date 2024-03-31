@@ -48,3 +48,7 @@ The projects mentioned above are just a glimpse of my portfolio. I have worked o
 
 ## Interests and Hobbies
 During my leisure time, I find enjoyment in a range of interests and pastimes. From the thrill of football matches to the adventure of discovering new places while traveling, each activity adds its own distinct flavor to my life. As someone who appreciates diverse cuisines, I take pleasure in exploring different culinary delights. Staying abreast of current events keeps me engaged with the world, while indulging in video games provides a relaxing escape when I need it.
+
+### Contact me at:
+Email: [abhisheikj@gmail.com](abhisheikj@gmail.com)  
+Phone: +1 (858) 247-9881
