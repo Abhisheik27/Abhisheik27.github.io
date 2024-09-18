@@ -39,6 +39,7 @@ Utilizing Python for experimentation and leveraging Hugging Face's dataset libra
 <h4>Google Trend Analysis</h4>
 For the Google Trend Analysis project during my Bachelor's, I took a deep dive into the fascinating world of data exploration. Using R and Google Colab, I extracted and analyzed data from Google Trends, exploring trends in online search behavior. I showcased my expertise in R programming and utilized essential libraries like dplyr, gTrendsR, ggplot, and patchwork for insightful data visualization.  
 <!-- You cand find the source code for this by clicking [here]( ) -->
+<!-- comment -->
 
 <h4>Climate Analysis</h4>
 The Climate Analysis project during my Master's was a culmination of my academic journey. Leveraging Pandas, NumPy, Matplotlib, and Scikit-learn, I conducted an in-depth analysis of climate projections using the NorESM2 climate model data. We developed a regression model to predict global warming based on cumulative CO2 emissions and extended our analysis to regional temperature modeling. Additionally, I created a command-line interface for interactive data exploration, enhancing usability and accessibility. This project showcased my ability to apply advanced data analysis techniques to address real-world challenges effectively.  
