@@ -3,7 +3,7 @@ Hey there! I'm Abhisheik, a passionate data science and Software Development ent
 ## Education
 **University of California, San Diego** (2023-Present)  
 Masters of Science(M.S) in Data Science  
-GPA- 3.85/4
+GPA- 3.87/4
 
 **University of Mumbai** (2019-2023)  
 Bachelor of Engineering(B.E.) in Computer Science Engineering  
